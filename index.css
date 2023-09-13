@@ -1,0 +1,28 @@
+.subdiv{
+    display: flex;
+
+}
+.d1{
+    height: 120px;
+    box-shadow: 2px 4px 7px rgb(110, 59, 59) inset;
+    border-radius: 5px;
+    width: 95% !important;
+
+}
+input{
+    background-color: transparent;
+    border: 0px;
+}
+.b0{
+    font-size: 30px;
+    height: 70px;
+    width: 70px;
+    background-color:purple;
+    margin-top: 2px;
+    margin: 7px;
+    border-radius: 5%;
+    padding:5px !important;
+    /* border: 1px solid rgb(31, 31, 31); */
+    box-shadow: 0 4px 8px 0 rgba(234, 231, 231, 0.2), 0 6px 20px 0 rgba(171, 7, 7, 0.19);
+    color:rgb(54, 78, 100)
+}
